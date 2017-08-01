@@ -1,0 +1,92 @@
+--------------------------------------------------
+Iteration 2
+Epoch 1/20
+200287/200287 [==============================] - 179s - loss: 1.3394
+Epoch 2/20
+200287/200287 [==============================] - 176s - loss: 1.3360
+Epoch 3/20
+200287/200287 [==============================] - 167s - loss: 1.3331
+Epoch 4/20
+200287/200287 [==============================] - 160s - loss: 1.3313
+Epoch 5/20
+200287/200287 [==============================] - 159s - loss: 1.3284
+Epoch 6/20
+200287/200287 [==============================] - 159s - loss: 1.3705
+Epoch 7/20
+200287/200287 [==============================] - 159s - loss: 1.4059
+Epoch 8/20
+200287/200287 [==============================] - 159s - loss: 1.4056
+Epoch 9/20
+200287/200287 [==============================] - 159s - loss: 1.3341
+Epoch 10/20
+200287/200287 [==============================] - 160s - loss: 1.3282
+Epoch 11/20
+200287/200287 [==============================] - 161s - loss: 1.3267
+Epoch 12/20
+200287/200287 [==============================] - 161s - loss: 1.3229
+Epoch 13/20
+200287/200287 [==============================] - 160s - loss: 1.3213
+Epoch 14/20
+200287/200287 [==============================] - 160s - loss: 1.3196
+Epoch 15/20
+200287/200287 [==============================] - 160s - loss: 1.3193
+Epoch 16/20
+200287/200287 [==============================] - 160s - loss: 1.3175
+Epoch 17/20
+200287/200287 [==============================] - 161s - loss: 1.3153
+Epoch 18/20
+200287/200287 [==============================] - 162s - loss: 1.3149
+Epoch 19/20
+200287/200287 [==============================] - 170s - loss: 1.3152
+Epoch 20/20
+200287/200287 [==============================] - 179s - loss: 1.3194
+
+----- diversity: 0.2
+----- Generating with seed: "ys kept pace with one another, and that "
+ys kept pace with one another, and that is the same the sense of the same the most intellect, and who would be surelight and the stronger
+of the engling and intellectual and superficious and proforner to the organic and the same the sentiments to the constitute and the servat
+ions of the every and the asserticure, and in the end the sense of the every proforner to the same and the result of the same the every an
+d the same one of the word
+
+----- diversity: 0.5
+----- Generating with seed: "ys kept pace with one another, and that "
+ys kept pace with one another, and that it is the origins of wholly and we
+were with one one
+extent the understanding are an actions and in
+a man" great consequently and than a she as their assertical faith of the most intellectual sense of the experient and words from which th
+e family which as it is the
+masses and why is only sent of the intellectual us and shows to the most sureless case
+of a strice in the all so seems and are the sup
+
+----- diversity: 1.0
+----- Generating with seed: "ys kept pace with one another, and that "
+ys kept pace with one another, and that also with regually to fact
+inalmost , he us.
+
+127. to which unitical and
+very guracitate into the
+men at first generation and inwortver--"ideted also mank the will. but he
+was demonament
+evel of lackion nor such carry, for examble happened and its with the fact and tendary not something lich. the pirsipable, morality, and a
+ familimed from the gain much", impulsemable. the manifestion? in onekeknes
+
+----- diversity: 1.2
+----- Generating with seed: "ys kept pace with one another, and that "
+ys kept pace with one another, and that are minday for pisntos your exclepned proudin
+made writen he gust, when the strange) the constit. hopoy ethical, conscantion sensations,"
+the mases. but the evil
+seaso-furthe, lever to himself
+dealges are--most piety the
+most wamy allete, as we would no mass, friend,
+and would "pass
+intrluskesingly.
+
+
+tlstm_text_generation.py:65: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+end is
+selds as a man prodapsians lever pri-fundarsx s
+their mora be
+,ness, propositions, and t
+
+--------------------------------------------------

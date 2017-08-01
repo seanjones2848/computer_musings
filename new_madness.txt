@@ -1,0 +1,59 @@
+200287/200287 [==============================] - 159s - loss: 1.3528
+Epoch 18/20
+200287/200287 [==============================] - 159s - loss: 1.3480
+Epoch 19/20
+200287/200287 [==============================] - 161s - loss: 1.3442
+Epoch 20/20
+200287/200287 [==============================] - 175s - loss: 1.3430
+
+----- diversity: 0.2
+----- Generating with seed: " imaginativeness
+in the interpretation o"
+ imaginativeness
+in the interpretation of the same disposition of the artists of the present the such a sense-encorpeated to the such a superiority of the
+sense--as a sense-entire and art of the present the present and art of the present to the same discoverers of the sense--the same man of t
+he superiorary and sense--the sense. the same discovered and sense--and the sense--the sensude of the superiority of the superiority of th
+e superio
+
+----- diversity: 0.5
+----- Generating with seed: " imaginativeness
+in the interpretation o"
+ imaginativeness
+in the interpretation of an avoid of the englishs the existence of the terming and moral art of the philosopher, and the thing of a person
+ the artistic to the last of the individual and sensual at the most transion of an offent its some severity, it is to be a felted and good
+ do the longer word in preference and respect to the artists of works and
+belong to be many and entire reason and the same misunderstanding to the
+
+----- diversity: 1.0
+----- Generating with seed: " imaginativeness
+in the interpretation o"
+ imaginativeness
+in the interpretation of
+man of the
+roliphing
+bad mun
+and
+deplic is movite acknor the atem away have beingly, not the oblications must not in curiois and anest anstibll; spectal even bad mustronom
+e, it dueg, how discovered greating made opinion."
+
+ye by
+they life, and
+mature is on this ullogical daventarian of
+his powerful to
+erron"--whencved their suirfficed--weve are backme and superiorians he desirable in the
+thing,"
+
+----- diversity: 1.2
+----- Generating with seed: " imaginativeness
+in the interpretation o"
+ imaginativeness
+in the interpretation of ascetic the argument--entaringly, it as is old wrise maniny being over taken for whech of child, to the greatest
+puern"
+secciment"  hord of love and it; this muts
+it have for which are animally beavhors conse"pog. manqy, from colwward if vanity satme
+
+      in a gualtination crnate wither
+thin ahfeentlaristic curiosity, the dangereds of the
+covessingne but that faithnoty. the reasoned and immela
+
+--------------------------------------------------

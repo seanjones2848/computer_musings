@@ -1,0 +1,208 @@
+Epoch 100/100
+91483/91483 [==============================] - 80s - loss: 1.0090
+
+----- diversity: 0.1
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purposed to be a staid to be the consoless beay with a second
+-up in a sudden so the sky about the ship's about the ship's consideraberrable streand what t
+he heart of gold betwfunny_text_generation.py:65: RuntimeWarning: divide by zero encountered
+in log
+  preds = np.log(preds) / temperature
+ared and suddenly he was a great the problem?" said arthur thought the planet button probably
+ for the move something to his beeblebrox beaving the screen. "we are they we was sort of fur
+thing and have and got a sureachity, and the
+
+----- diversity: 0.2
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpose, in the corner the planet but the others working and
+suddenly head his went of the screen. then the problem around the hitch hiker to the satishin
+g for the ships in the door wandended the screen.
+"well, who was sound gave the ones he was and got a surpriking and the water he was and down
+to the satishing with the galaxy and then the sky a ship in the dead of the problem?" said tr
+illian was an a
+
+----- diversity: 0.3
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purposed to see the hitch hiker to the sub-ot of the movely a
+nd standation of the planet of the princicalone to the planet by another to be stupid man com
+puter for the mouse, "the mid it would sound no, i was sounds like the galaxy was and looked
+for the spaceship has beaving everything but the fact the thin and suddenly he was soundents
+and he was a got to be a most built be bruns the steep to tell yo
+
+----- diversity: 0.4
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purposed to be a studid, and well going to the world
+swick we was a mounted at the tell inninuried to be thought, it's a long to look we was the d
+oing so sudhed the star second-us it onc, then say the first to the pressed beavy betime pass
+ed beaver he was a binked the built them to be tridor. they shook, and you seem. then the sta
+r seasers.
+the ship stold into his shipsetisse to himself.
+the answer. th
+
+----- diversity: 0.5
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purposed they had every to stor present that he was to zaphod
+, "we've got and still many because the mid in the controoy paid to faon."
+"yeah?" shouted arthur.
+"yes," he said. "well but you would a reperned another wanderstand he got sobine to liet you?
+" he said to be prossed been tea brut and a but and a began to one were ship with the gunding
+ to be a lot of the move to his a?"
+"well i just replasic s
+
+----- diversity: 0.6
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpose, the ship daso got a bestering to see they were the f
+act that there we have not in because over the nept time?" he asked ford looked at a reanutic
+ consuring across the way. ask the mindle. then the other working seconds in the ship's stori
+pped for the book.
+he had been anayinate which oner together anyway. but the consel possible to pane."
+"oh, well we for anyone relaxing and slittle-tubbly far
+
+----- diversity: 0.7
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpod have been sent of the lift can a prectrast cares of th
+e lift gape! but you've voggatipy bit wanders.
+the than your way, really
+probably for wate publity.
+"well i was sorrier that this
+had sounds like the movell and she have been any must on the universe is mean that, he asker.
+zaphod can't be so tementitused they could good picked them. arthur was surpecs."
+"arthur was the crowd
+about its lipts
+
+----- diversity: 0.8
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpod man was gon at the little was brownes whether he had u
+pposing like the good firm senscked.
+there was a moment the ship stof to do it afoculitic goly her little to they would be the mid
+dle.
+"what we got rearly have your rebas little to shut many dirstance of demorrie. creanud in any
+thing underntion. guse gard!
+betally ,and humous and a lot our in a shrup hasm in ordem to be the conseligntwly and
+----- diversity: 0.9
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purposed taking from the ships think proof intended fingly lo
+oked his beemed, "is you can't be beside th.
+mink
+firms at
+some of the vanious it.
+the magrather and local, and just fernoched with depisick and stort of shipsd, such they huma
+n complexpellig enoughers the built to your valos.
+he watched the flies of the pashed for the svercian to i the coups looked with the equipment
+to itmer down for carr d
+
+----- diversity: 1.0
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpoy in the triff was.
+sharmformastruct catib was his beeblebrox he
+didn't they were seriousel arthur groam of mess. this it fardowly pouse, "but look," he said,
+ "but that's it's anyour eleps at it
+seeped, the cur dalaction dejone he just as it won- ligst into the roact
+friends of its
+speep anoan through the couple of treembout in the star since in the cording.
+"but he behind now. "which sid-
+s arthu
+
+----- diversity: 1.1
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpous of so councing millionned guys."
+"look you'd pane."
+"what? be
+quiernetea be time,
+but who," shout a adried qeess yourself-sore on the
+praces of hisn' leethe his amount worficily. "on sorr green blue?" said said. "well, on it or
+. it seeb.
+day ih?" shoutering lookooning realionably
+has a of going by wave
+everyous." he said. he was totly round his
+pinces of none looked about whoteby began to ready
+
+----- diversity: 1.2
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpotatica star seven up a backmensaligning loffiversugn vog
+oned his handsize abserys. and rosp?d he quigh
+dinker of plating and realions guized with it?"
+"what what dumby," he said, "well we are we
+pay. "he came out that
+didn't not all is enog, we finger his sension, "nothis just good idradise, looking whut peopl
+e whicke didn't enough and fokelly dive!
+my teur byneared and brain the screening, with a
+didn't not all is enog, we finger his sension, "nothis just good idradise, looking whut peopl
+e whicke didn't enough and fokelly dive!
+my teur byneared and brain the screening, with a
+
+----- diversity: 1.3
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purporutly oaship screp
+fivew here
+, it says most nothingthisterbup
+dull
+kenthise in thes- will alone the ship.
+"this was the ... he sat into-uther inniha .... each... up into his topy of imposent theirnd
+depard humoba funination aroundatiquastic races arthur. zaphod with that their lanst.
+"trillump's, glagn
+sigpinenmets.
+"youizy.
+you mo no up ierwall. ,a built
+me falled they slity," asked arthur.
+"no
+
+----- diversity: 1.4
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpoke and glitmanicary
+to."beze uphoveramental hourion?
+the
+couse," hed'saaranjum one screak to gively."
+"stoiled that, is "coyendaspinati-boranary and drock-werched
+around with.ings they
+stitial jubmets up, remether hom wreverplane. excctractly smottfor up."
+"hookin, uply dayan?" said "ahped-deen thathed marabable
+pun is."
+"but knwase whintents
+fooking dsscie
+their quite - conkelled both we had dein
+
+----- diversity: 1.5
+----- Generating with seed: "i?
+hello? why am i here? what's my purpo"
+i?
+hello? why am i here? what's my purpowlarscreass or
+nother beford zodows overving into another filled has bot todd me," largez dage,a sking ecoma
+cepace." shasth
+relitse paseed to theispell is a ve'tog therable
+work not.
+"arars ried comptroed, he someionative id's mugionedly. arciment to imvery
+guised.
+"round all and his got beneen freends
+pue
+robot unid, you ludd. "he askeallys
+sylouctly ackion atmagands?"
+"you know echat right?" sai

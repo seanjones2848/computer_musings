@@ -1,0 +1,2 @@
+corpus length:4432803
+total chars:52 nb sequences:1477588-----------------------------------Iteration 1
