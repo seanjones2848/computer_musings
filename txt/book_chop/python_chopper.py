@@ -20,12 +20,13 @@ divs = {'0.24' : open("div_24", "a"),
 
 def write_diversity():
 	for num, div in divs.iteritems():
-		div.write("Diversity " + num + "\n\n\n")
+		div.write("Diversity " + num + "\n\n")
 
 def write_iteration(iteration):
 	for num, div in divs.iteritems():
 		div.write("\n" + iteration + "\n\n")
 
+write_diversity()
 write_iteration(current_iteration)
 for line in full_text[:]:
 	if line[35:44] == "Iteration":
